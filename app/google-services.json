@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365695534057",
+    "project_id": "fir-bt10",
+    "storage_bucket": "fir-bt10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365695534057:android:7da995121915202f09c178",
+        "android_client_info": {
+          "package_name": "vn.hcmute.bt_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJb6rgm2HEj7YgvNROqc6w-CWwaRZYg3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
